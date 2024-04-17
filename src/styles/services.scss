@@ -1,0 +1,10 @@
+@import "colors";
+
+.services > div {
+    
+    background-color: aquamarine;
+    &:hover{
+        background-color: aquamarine;
+    }
+
+}
